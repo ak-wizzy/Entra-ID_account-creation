@@ -1,0 +1,3 @@
+DisplayName,UserPrincipalName,MailNickname,Password,GivenName,Surname,JobTitle,Department,UsageLocation,GroupMembership,ManagerUPN,AccountEnabled
+Matthew Ekpo,mathewekpo@xyz.com,matthewekpo,P@ssword123!,Matthew,Ekpo,Systems Analyst,IT,GB,IT Team;Project Alpha,manager@xyz.com,TRUE
+Simone Enna,simoneenna@axyz.com,simoneenna,P@ssword456!,Simone,Enna,HR Officer,HR,US,HR Team,managerh@xyz.com,TRUE
