@@ -1,6 +1,6 @@
 # 🚀 Entra ID Bulk User Creation Script
 
-This PowerShell script automates the creation of new Entra ID (Azure AD) user accounts from a CSV file. It also handles license assignment, manager assignment, and group membership — even auto-creates missing groups!
+This PowerShell script automates the creation of new Entra ID (Azure AD) user accounts from a CSV file. It also handles manager assignment, and group membership — even auto-creates missing groups!
 
 ---
 
